@@ -1,4 +1,4 @@
-CREATOR = "This File Is Made By @SahilModzOwner" #DON'T CHANGE THIS WARNA ERROR AYEGA 100%
+CREATOR = "This File Is Made By @RUDRA_0846" #DON'T CHANGE THIS WARNA ERROR AYEGA 100%
 import hashlib
 import os
 import telebot
@@ -11,12 +11,12 @@ from threading import Thread
 loop = asyncio.get_event_loop()
 
 # Bot token
-TOKEN = '7362289727:AAE6RWfho65aJUxMyOSdvxXVBndKGx4QZcc'
+TOKEN = '7487256285:AAGoDF7gm-eQ_Wu-kEewnKnnxQqMUBgZuvE'
 bot = telebot.TeleBot(TOKEN)
 REQUEST_INTERVAL = 1
 
 # Admins list
-ADMIN_IDS = [2085082046]  # Replace with actual admin user IDs
+ADMIN_IDS = [5838856932]  # Replace with actual admin user IDs
 
 # File to store user information
 USERS_FILE = 'users.txt'
